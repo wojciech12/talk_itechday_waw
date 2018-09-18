@@ -12,4 +12,6 @@ Prezentacja:
 - `LinkedIN Slideshare <https://www.slideshare.net/WojciechBarczyski/wprowadzenie-do-kubernetesa-k8s-jako-nowy-linux>`_ 
 - `źródło w html/evealjs <slides/>`_
 
-Jeśli podobała Ci się prezentacja, możesz dać Like do `LI posta o rozszerzonej prezentacji w języku angielskim <https://www.linkedin.com/feed/update/urn:li:activity:6447550831184084992>`_. W przypadku pytań, możesz się skontktować drogą emailową, telefonicznie, albo przez FB. Kontakt znajdziesz w prezentacji.
+Jeśli podobała Ci się prezentacja, możesz dać Like do `LI posta o rozszerzonej prezentacji w języku angielskim <https://www.linkedin.com/feed/update/urn:li:activity:6447550831184084992>`_.
+
+W przypadku pytań, możesz się skontktować drogą emailową, telefonicznie, albo przez FB. Kontakt znajdziesz w prezentacji.
